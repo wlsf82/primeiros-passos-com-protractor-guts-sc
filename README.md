@@ -1,11 +1,9 @@
 # primeiros-passos-com-protractor-guts-sc
-Projeto para palestra no primeiro evento de 2016 do grupo de usuários de testes de software de Santa Catarina
+Projeto para palestra no primeiro evento de 2016 do grupo de usuários de testes de software de Santa Catarina (GUTS-SC)
 
 Pré-requisitos:
 
 * NodeJS v4
-* Protractor 3.0.0
-* Webdriver-manager
 
 Após a instalação do NodeJS, execute os seguintes passos para instalar o Protractor
 e atualizar o Webdriver-manager:
